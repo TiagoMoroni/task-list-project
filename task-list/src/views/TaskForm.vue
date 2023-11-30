@@ -31,6 +31,7 @@ import store from '../store';
 import { onBeforeMount } from 'vue';
 import { useRoute } from 'vue-router';
 import router from '../router';
+import { VForm } from 'vuetify/components';
 
 const form = ref({
     id: 0 as number,
@@ -41,10 +42,10 @@ const form = ref({
     duration: null,
 });
 
-const formField = ref(null)
+const formField = ref<VForm>()
 
 const submitForm = async () => {
-    if(formField.value.isValid){
+    if(formField.value?.isValid){
         try {
             if (!form.value.id) {
                 var currentDate = new Date();

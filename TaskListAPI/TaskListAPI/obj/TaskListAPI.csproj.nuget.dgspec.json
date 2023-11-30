@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tmoro\\Desktop\\task-list-project\\TaskListAPI\\TaskListApi\\TaskListAPI.csproj": {}
+    "C:\\Users\\tmoro\\Desktop\\task-list-project\\tasklistapi\\tasklistapi\\TaskListAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tmoro\\Desktop\\task-list-project\\TaskListAPI\\TaskListApi\\TaskListAPI.csproj": {
+    "C:\\Users\\tmoro\\Desktop\\task-list-project\\tasklistapi\\tasklistapi\\TaskListAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tmoro\\Desktop\\task-list-project\\TaskListAPI\\TaskListApi\\TaskListAPI.csproj",
+        "projectUniqueName": "C:\\Users\\tmoro\\Desktop\\task-list-project\\tasklistapi\\tasklistapi\\TaskListAPI.csproj",
         "projectName": "TaskListAPI",
-        "projectPath": "C:\\Users\\tmoro\\Desktop\\task-list-project\\TaskListAPI\\TaskListApi\\TaskListAPI.csproj",
+        "projectPath": "C:\\Users\\tmoro\\Desktop\\task-list-project\\tasklistapi\\tasklistapi\\TaskListAPI.csproj",
         "packagesPath": "C:\\Users\\tmoro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tmoro\\Desktop\\task-list-project\\TaskListAPI\\TaskListApi\\obj\\",
+        "outputPath": "C:\\Users\\tmoro\\Desktop\\task-list-project\\tasklistapi\\tasklistapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tmoro\\AppData\\Roaming\\NuGet\\NuGet.Config",

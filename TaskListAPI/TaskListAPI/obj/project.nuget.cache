@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yBy+E/lqvyfX30X1VvGHEFVaVnHckse6RTdRvAsB1ETzFMYrHW+jBEY3w1dMgMTkjLPu7VmYXnqTiZJaWyalTA==",
+  "dgSpecHash": "wRfPT7Ey9VX08XN7dRD/g/qdyrGeVlgWqbCHnbYbmFA+cQwsiZnDPi4vOOc2+8tCj4LvBKtxgwSlunEF8KgwEA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tmoro\\Desktop\\task-list-project\\TaskListAPI\\TaskListApi\\TaskListAPI.csproj",
+  "projectFilePath": "C:\\Users\\tmoro\\Desktop\\task-list-project\\tasklistapi\\tasklistapi\\TaskListAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tmoro\\.nuget\\packages\\dapper\\2.1.24\\dapper.2.1.24.nupkg.sha512",
     "C:\\Users\\tmoro\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
