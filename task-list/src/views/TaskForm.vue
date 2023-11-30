@@ -57,9 +57,9 @@ const submitForm = async () => {
                 var minutes = String(currentDate.getMinutes()).padStart(2, '0');
                 var seconds = String(currentDate.getSeconds()).padStart(2, '0');
                 var formattedDate = `${year}-${month}-${day}T${hours}:${minutes}:${seconds}`;
-                store.dispatch('addTask', { ...form.value, creationDate: formattedDate });
+                await store.dispatch('addTask', { ...form.value, creationDate: formattedDate });
             } else {
-                store.dispatch('editTask', form.value);
+                await store.dispatch('editTask', form.value);
             }
             router.push("/");
         } catch (error) {
